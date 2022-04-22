@@ -1,2 +1,2 @@
-## DataVisualisation
-Data visualisation for storytelling. The cognitive considerations behind behind data storytelling.
+## DataVisualization
+Data visualization for storytelling. The cognitive considerations behind behind data storytelling.
