@@ -1,2 +1,2 @@
 ## DataVisualization
-Data visualization for storytelling. The cognitive considerations behind decisions. 
+Data visualization for storytelling. The cognitive considerations behind behind data storytelling.
