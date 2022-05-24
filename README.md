@@ -1,2 +1,5 @@
-## DataVisualization
-Data visualization for storytelling. The cognitive considerations behind behind data storytelling.
+# DataVisualization
+A collection of data visualization techniques using `python`
+
+## Contents
+**StortyTellingWithData**: An introduction to data visualization for storytelling & the cognitive considerations behind visuals
