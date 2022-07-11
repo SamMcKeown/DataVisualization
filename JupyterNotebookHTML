@@ -1,0 +1,19 @@
+1. "Contents" / "Sections" Anchor:
+
+### Contents <a class="anchor" id="sections"></a>
+
+2. Heading Shortcut(s): 
+
+- [Part 1. Title](#section1)
+- [Part 2. Title](#section2)
+- [Part 3. Title](#section3)
+- [Part 4. Title](#section4)
+- [Part 5. Title](#section5)
+
+3. Heading Anchor: 
+
+<a class="anchor" id="section1"></a>
+
+4. Return to specific id:
+
+[Return to contents](#sections)
